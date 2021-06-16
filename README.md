@@ -21,7 +21,7 @@ All the Pages built here are responsive which makes web pages render well on a v
 #### Authentication
 Authorization is taken into account while giving rights to a user to edit or delete his/her Profile .Only the user who has posted of created profile can delete or edit that profile.\
 Authentication is also taken into account while adding comments( a user can only add comments if he/she is logged in).\
-Functionalities
+Functionalities :
  - Profile Details
  - Change Password
  - Forgot Password

@@ -20,7 +20,14 @@ This Application is basically build for the developers to connect with each othe
 All the Pages built here are responsive which makes web pages render well on a variety of devices and window or screen sizes from minimum to maximum display size.
 #### Authentication
 Authorization is taken into account while giving rights to a user to edit or delete his/her Profile .Only the user who has posted of created profile can delete or edit that profile.\
-Authentication is also taken into account while adding comments( a user can only add comments if he/she is logged in).
+Authentication is also taken into account while adding comments( a user can only add comments if he/she is logged in).\
+Functionalities
+ - Profile Details
+ - Change Password
+ - Forgot Password
+ - Reset Password
+ - Link multiple OAuth strategies to one account
+ - Delete Account
 #### User Profile Management 
 The Logined user can create his/her profile and can post it on the main server. Only the Logined Person can create/delete/edit his/her Profile.
 #### Accessibility of Peer Users

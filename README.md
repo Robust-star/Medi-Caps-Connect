@@ -1,7 +1,9 @@
 # Medi-Caps Connect
 This Application is basically build for the developers to connect with each other and make community which can help each and every individual to grow.This was build using technologies as React JS,MongoDB,REST API's
 
-## There are 5 main pages:
+## Technologies Used:
+*Front-end : HTML,CSS,JAVASCRIPT
+*Back-end : Node.js,REST API's 
 
 ## There are 5 main pages:
 * landing page: This page is the home page.

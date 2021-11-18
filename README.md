@@ -26,7 +26,6 @@ Functionalities :
  - Change Password
  - Forgot Password
  - Reset Password
- - Link multiple OAuth strategies to one account
  - Delete Account
 #### User Profile Management 
 The Logined user can create his/her profile and can post it on the main server. Only the Logined Person can create/delete/edit his/her Profile.
